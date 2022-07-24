@@ -1,7 +1,8 @@
-# The Art and Science of Empirical Computer Science (Fall 2022)
+# The Art and Science of Empirical Computer Science
 
 ## Logistics
 
++ Semester: Fall 2022
 + Instructor: [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
 + Time & Location: TBA
 
