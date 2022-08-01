@@ -19,7 +19,7 @@ Material for this course will draw from ["The Science of Science"](https://www.d
 ## Syllabus
 
 | Week | Date | Type | Description |
-|------|------|------|-------------|
+|:-----|:-----|:-----|:------------|
 | 1 | 9/12 | - | Introduction |
 | 2 | 9/19 | "science" | The Science of Career |
 | 3 | 9/26 | "science" | The Science of Collaboration |
