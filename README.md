@@ -16,6 +16,24 @@ The hope is that knowledge and actionable advice from this course will help grad
 
 Material for this course will draw from ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, academic papers, as well as other sources on the web.
 
+## Scope
+
+Context is important.
+Most of the questions and issues we grapple with in this course have no simple answer.
+Nearly always, it depends on context.
+As such, it is important to properly scope the coverage of this course.
+
+Wang and Barabási attempt to paint broad strokes with their work, encompassing all of science.
+However, some of their findings and recommendations may seem at odds with realities in computer science.
+Much of the "art" (e.g., advice, best practices, etc.) covered in this course is drawn from my personal experience, which will of course be colored by my own background.
+I am a computer scientist (actually, also a formal linguist) by training, and I work presently at the intersection of natural language processing (NLP) and information retrieval (IR), although over the years I have dabbled in other sub-disciplines of computer science as well.
+
+For lack of a better term, I characterize the focus of this course as "empirical computer science", but it really is a shorthand for "stuff that I have worked on" and "stuff that I am familiar with".
+NLP and IR can be characterized as "applied machine learning", so perhaps that's a more accurate scope.
+The contents of this course will certainly be relevant to graduate students wishing to pursue these topics, and I suspect for related sub-disciplines in computer science such as data mining, or even perhaps computer vision (although I don't work in those fields).
+However, I am quite certain that portions of this course will _not_ apply to, for example, theoretical machine learning and complexity.
+All findings, advice, recommendations, etc. need to be properly contextualized.
+
 ## Syllabus
 
 | Week | Date | Type | Description |
@@ -33,11 +51,21 @@ Material for this course will draw from ["The Science of Science"](https://www.d
 | 11 | 11/28 | "science" | Technological solutions? (I) |
 | 12 | 12/5 | "science" | Technological solutions? (II) |
 
+## Grades
+
+| Weight | Component |
+|--------|-----------|
+| 15% | [Debate participation](debates.md) |
+| 15% | Technology presentation |
+| 10% | Class participation |
+| 20% | Visualization project |
+| 40% | Final project |
+
 ## Assignments
 
 In addition to weekly preparation (readings and other material), the course will have the following assignments:
 
-+ Preparation and participation in a debate. These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
++ [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
 + Literature review and presentation of a technological solution to a challenge related to the topics covered in this course (Weeks 11 and 12).
 + Visualization project due in mid-October.
 + Final project due at the end of the semester.
