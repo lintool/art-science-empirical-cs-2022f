@@ -27,8 +27,8 @@ So as to ensure that all students enrolled have a chance to participate, I'll ad
 I will moderate each debate, which will last approximately 45-60 minutes, with the following overall structure:
 
 + At the beginning, I'll ask the audience (i.e., students who are not debate participants) for an indication of their position.
-+ Each side will be given 10 minutes for an opening statement to advocate for their position. I expect everyone on each side to contribute to the opening statement.
-+ Each side will then be given 5 minutes for a rebuttal. It is fine for a single individual to deliver the rebuttal, but contributions from everyone on the team are of course welcome.
++ Each side will be given 10 minutes for an opening statement to advocate for their position. I expect everyone on each side to contribute to the opening statement. Feel free to use slides if you wish.
++ Each side will then be given 5 minutes for a rebuttal. It is fine for a single individual to deliver the rebuttal, but contributions from everyone on the team are of course welcome. No slides here.
 + The audience and moderator will then pose questions to both sides: each side will be given 3 minutes to respond. Time for additional follow-ups will be allowed by the moderator as appropriate. I expect participation from everyone on both sides (across questions); that is, I do not want a single person from each side to be answering every question.
 + At the end, I'll ask the audience again for an indication of their position, to gauge if the debate has changed their mind.
 
