@@ -38,7 +38,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 | Week | Date | Type | Description |
 |:-----|:-----|:-----|:------------|
-| 1 | 9/12 | - | Introduction |
+| [1](#week-1) | 9/12 | - | Introduction |
 | 2 | 9/19 | "science" | The Science of Career |
 | 3 | 9/26 | "science" | The Science of Collaboration |
 | 4 | 10/3 | "science" | The Science of Impact |
@@ -69,3 +69,11 @@ In addition to weekly preparation (readings and other material), the course will
 + Literature review and presentation of a technological solution to a challenge related to the topics covered in this course (Weeks 11 and 12).
 + Visualization project due in mid-October.
 + Final project due at the end of the semester.
+
+## Detailed Schedule
+
+### Week 1
+
+### Week 2
+
+### Week 3
