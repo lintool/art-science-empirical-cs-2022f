@@ -66,21 +66,44 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 In addition to weekly preparation (readings and other material), the course will have the following assignments:
 
 + [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
-+ Literature review and presentation of a technological solution to a challenge related to the topics covered in this course (Weeks 11 and 12).
-+ Visualization project due in mid-October.
-+ Final project due at the end of the semester.
++ [Literature review and presentation of a technological solution](tech-presentation.md) to a challenge related to the topics covered in this course (Weeks 11 and 12).
++ [Visualization project](project-vis.md) due in mid-October.
++ [Final project](project-final.md) due at the end of the semester.
 
 ## Detailed Schedule
 
 ### Week 1
 
-**Slides:** [[Slides](slides/week1.pdf)]
+**Slides:** [[PDF](slides/week1.pdf)]
+
+For more details on normative vs. positive approaches, Wikipedia provides a good starting point: [Positivism](https://en.wikipedia.org/wiki/Positivism) and [Normativity](https://en.wikipedia.org/wiki/Normativity).
 
 ### Week 2
 
+**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career
+
+We'll be having our debate on Topic 1: quality _only_ or quality _and_ quantity?
+
++ Position A: Researchers should be evaluated _solely_ on the quality of their publications. Quantity is irrelevant and we shouldn't even bother counting.
++ Position B: Researchers should be evaluated on _both_ the quality _and_ quantity of their publications. High-quality publications a
+
 ### Week 3
 
+**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration
+
+We'll be having our debate on Topic 2: collaborate or not?
+
++ Position A: Early-stage researchers should actively seek out collaborations beyond their research group. Participation in multiple research projects across many different groups builds breadth.
++ Position B: Early-stage researchers should _not_ actively seek out collaborations beyond their research group. Focusing on depth is more important than breadth.
+
 ### Week 4
+
+**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact
+
+We'll be having our debate on Topic 3: code dump or more?
+
++ Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
++ Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
 
 ### Week 5
 
