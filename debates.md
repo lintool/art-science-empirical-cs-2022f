@@ -21,3 +21,26 @@ Here are the debate topics:
   + Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
 
 So as to ensure that all students enrolled have a chance to participate, I'll add more debate topics later in the semester.
+
+## General Structure
+
+I will moderate each debate, which will last approximately 45-60 minutes, with the following overall structure:
+
++ At the beginning, I'll ask the audience (i.e., students who are not debate participants) for an indication of their position.
++ Each side will be given 10 minutes for an opening statement to advocate for their position. I expect everyone on each side to contribute to the opening statement.
++ Each side will then be given 5 minutes for a rebuttal. It is fine for a single individual to deliver the rebuttal, but contributions from everyone on the team are of course welcome.
++ The audience and moderator will then pose questions to both sides: each side will be given 3 minutes to respond. Time for additional follow-ups will be allowed by the moderator as appropriate. I expect participation from everyone on both sides (across questions); that is, I do not want a single person from each side to be answering every question.
++ At the end, I'll ask the audience again for an indication of their position, to gauge if the debate has changed their mind.
+
+## Preparation and Expectations
+
+As a debate participant, I expect your team to have prepared a coherent and convincing opening statement that advocates for your position.
+It is not required that you actually "believe in" your position personally, but you must represent it to the best of your abilities.
+Per above, it is expected that everyone on the team participates in delivering the opening statement, so you'll have to divide up your time in a way that makes sense.
+Furthermore, I expect your team to have grappled with the advantages and disadvantages of _both_ positions: this will be necessary for you to deliver a coherent and convincing rebuttal.
+You are not limited in terms of the material you can draw from to make your arguments.
+Naturally, assigned course material will be relevant, but there are lots of advice and opinions on the web that can inform your preparations.
+To prepare for the debate, my advice is that each team member first work independently, and then arrange a sync up session to discuss high-level strategy, who delivers which arguments, etc.
+
+For the audience (i.e., students who are not debate participants), I expect you to be more than a passive recipient listening to both sides.
+I expect that you spend a bit of time thinking about both positions prior to the session, reflect on how the issues might apply to your personal career development, and in this process, come up with a list of questions that you can ask in the debate.
