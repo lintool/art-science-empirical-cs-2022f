@@ -58,7 +58,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | 15% | [Debate participation](debates.md) |
 | 15% | [Technology presentation](tech-presentation.md) |
 | 20% | [Visualization project](project-vis.md) |
-| 40% | [Final project](provide-final.md) |
+| 40% | [Final project](project-final.md) |
 | 10% | Class participation |
 
 ## Assignments
