@@ -37,10 +37,10 @@ I will moderate each debate, which will last approximately 45-60 minutes, with t
 As a debate participant, I expect your team to have prepared a coherent and convincing opening statement that advocates for your position.
 It is not required that you actually "believe in" your position personally, but you must represent it to the best of your abilities.
 Per above, it is expected that everyone on the team participates in delivering the opening statement, so you'll have to divide up your time in a way that makes sense.
-Furthermore, I expect your team to have grappled with the advantages and disadvantages of _both_ positions: this will be necessary for you to deliver a coherent and convincing rebuttal.
+Furthermore, I expect your team to have grappled with the pros and cons of _both_ positions: this will be necessary for you to deliver a coherent and convincing rebuttal.
 You are not limited in terms of the material you can draw from to make your arguments.
 Naturally, assigned course material will be relevant, but there are lots of advice and opinions on the web that can inform your preparations.
-To prepare for the debate, my advice is that each team member first work independently, and then arrange a sync up session to discuss high-level strategy, who delivers which arguments, etc.
+Prior to the debate session, my advice is that each team member first work independently, and then arrange a sync up session to discuss high-level strategy, who delivers which arguments, etc.
 
-For the audience (i.e., students who are not debate participants), I expect you to be more than a passive recipient listening to both sides.
+For the audience (i.e., students who are not debate participants), I expect you to be more than a passive observer listening to both sides.
 I expect that you spend a bit of time thinking about both positions prior to the session, reflect on how the issues might apply to your personal career development, and in this process, come up with a list of questions that you can ask in the debate.

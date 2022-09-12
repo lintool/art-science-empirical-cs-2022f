@@ -38,18 +38,18 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 | Week | Date | Type | Description |
 |:-----|:-----|:-----|:------------|
-| [1](#week-1) | 9/12 | - | Introduction |
-| 2 | 9/19 | "science" | The Science of Career |
-| 3 | 9/26 | "science" | The Science of Collaboration |
-| 4 | 10/3 | "science" | The Science of Impact |
-| 5 | 10/17 | - | Presentation of visualization projects |
-| 6 | 10/24 | "art" | How the sausage is made: the conference lifecycle |
-| 7 | 10/31 | "art" | Working with your advisor and what to work on |
-| 8 | 11/7 | "art" | On writing papers |
-| 9 | 11/14 | "art" | Participating in the research community |
-| 10 | 11/21 | "both" | Responsible AI |
-| 11 | 11/28 | "science" | Technological solutions? (I) |
-| 12 | 12/5 | "science" | Technological solutions? (II) |
+| [1](#week-1) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
+| [2](#week-2) | 9/19 | "science" | The Science of Career |
+| [3](#week-3) | 9/26 | "science" | The Science of Collaboration |
+| [4](#week-4) | 10/3 | "science" | The Science of Impact |
+| [5](#week-5) | 10/17 | - | Presentation of visualization projects |
+| [6](#week-6) | 10/24 | "art" | How the sausage is made: the conference lifecycle |
+| [7](#week-7) | 10/31 | "art" | Working with your advisor and what to work on |
+| [8](#week-8) | 11/7 | "art" | On writing papers |
+| [9](#week-9) | 11/14 | "art" | Participating in the research community |
+| [10](#week-10) | 11/21 | "both" | Responsible AI |
+| [11](#week-11) | 11/28 | "science" | Technological solutions? (I) |
+| [12](#week-12) | 12/5 | "science" | Technological solutions? (II) |
 
 ## Grades
 
@@ -74,6 +74,27 @@ In addition to weekly preparation (readings and other material), the course will
 
 ### Week 1
 
+**Slides:** [[Slides](slides/week1.pdf)]
+
 ### Week 2
 
 ### Week 3
+
+### Week 4
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+### Week 9
+
+### Week 10
+
+### Week 11
+
+### Week 12
+
