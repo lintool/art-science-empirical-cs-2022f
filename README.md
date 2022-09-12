@@ -80,7 +80,7 @@ For more details on normative vs. positive approaches, Wikipedia provides a good
 
 ### Week 2
 
-**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
 
 We'll be having our debate on Topic 1: quality _only_ or quality _and_ quantity?
 
@@ -89,7 +89,7 @@ We'll be having our debate on Topic 1: quality _only_ or quality _and_ quantity?
 
 ### Week 3
 
-**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration (pages 81-158).
 
 We'll be having our debate on Topic 2: collaborate or not?
 
@@ -98,7 +98,7 @@ We'll be having our debate on Topic 2: collaborate or not?
 
 ### Week 4
 
-**Readings:** ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact
+**Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact (pages 159-219).
 
 We'll be having our debate on Topic 3: code dump or more?
 
