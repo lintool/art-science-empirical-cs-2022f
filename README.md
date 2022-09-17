@@ -82,16 +82,16 @@ For more details on normative vs. positive approaches, Wikipedia provides a good
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
 
-We'll be having our debate on Topic 1: quality _only_ or quality _and_ quantity?
+We'll be having our debate on Topic 1: How should we evaluate excellence? Quality _only_ or quality _and_ quantity?
 
 + Position A: Researchers should be evaluated _solely_ on the quality of their publications. Quantity is irrelevant and we shouldn't even bother counting.
-+ Position B: Researchers should be evaluated on _both_ the quality _and_ quantity of their publications. High-quality publications are of course important, but quantity is also an important component of productivity.
++ Position B: Researchers should be evaluated on _both_ the quality _and_ quantity of their publications. High-quality publications are of course important, but quantity is also an important component of excellence.
 
 ### Week 3
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration (pages 81-158).
 
-We'll be having our debate on Topic 2: collaborate or not?
+We'll be having our debate on Topic 2: Should you collaborate or not?
 
 + Position A: Early-stage researchers should actively seek out collaborations beyond their research group. Participation in multiple research projects across many different groups builds breadth.
 + Position B: Early-stage researchers should _not_ actively seek out collaborations beyond their research group. Focusing on depth is more important than breadth.
@@ -100,7 +100,7 @@ We'll be having our debate on Topic 2: collaborate or not?
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact (pages 159-219).
 
-We'll be having our debate on Topic 3: code dump or more?
+We'll be having our debate on Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
 
 + Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
 + Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
