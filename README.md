@@ -39,7 +39,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | Week | Date | Type | Description |
 |:-----|:-----|:-----|:------------|
 | [1](#week-1) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
-| [2](#week-2) | 9/19 | "science" | The Science of Career |
+| [2](#week-2) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
 | [3](#week-3) | 9/26 | "science" | The Science of Collaboration |
 | [4](#week-4) | 10/3 | "science" | The Science of Impact |
 | [5](#week-5) | 10/17 | - | Presentation of visualization projects |
@@ -81,6 +81,8 @@ For more details on normative vs. positive approaches, Wikipedia provides a good
 ### Week 2
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
+
+**Slides:** [[PDF](slides/week2.pdf)]
 
 We'll be having our debate on Topic 1: How should we evaluate excellence? Quality _only_ or quality _and_ quantity?
 
