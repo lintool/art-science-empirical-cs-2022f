@@ -19,8 +19,9 @@ Here are the debate topics:
 + Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
   + Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
   + Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
-
-So as to ensure that all students enrolled have a chance to participate, I'll add more debate topics later in the semester.
++ Topic 4: Is social media a waste of time?
+  + Position A: Early-stage researchers should actively incorporate social media use as a component of their career development. This means appropriate use of sites like Twitter, Facebook, and LinkedIn to build professional reputation, engage with the community, hear about recent work by others, etc.
+  + Position B: Early-stage researchers should stay off social media. It's a complete waste of time.
 
 ## General Structure
 

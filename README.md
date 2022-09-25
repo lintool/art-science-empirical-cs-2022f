@@ -40,7 +40,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 |:-----|:-----|:-----|:------------|
 | [1](#week-1) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
 | [2](#week-2) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
-| [3](#week-3) | 9/26 | "science" | The Science of Collaboration |
+| [3](#week-3) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
 | [4](#week-4) | 10/3 | "science" | The Science of Impact |
 | [5](#week-5) | 10/17 | - | Presentation of visualization projects |
 | [6](#week-6) | 10/24 | "art" | How the sausage is made: the conference lifecycle |
@@ -92,6 +92,8 @@ We'll be having our debate on Topic 1: How should we evaluate excellence? Qualit
 ### Week 3
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration (pages 81-158).
+
+**Slides:** [[PDF](slides/week3.pdf)]
 
 We'll be having our debate on Topic 2: Should you collaborate or not?
 

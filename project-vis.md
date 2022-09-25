@@ -38,7 +38,7 @@ In some cases the datasets offer bulk downloads; some offer APIs; for others, yo
 
 + [Google Scholar](https://scholar.google.com/): Of course, probably the most extensive source of bibliometric data... but for most data you'll have to scrape.
 + [Semantic Scholar](https://www.semanticscholar.org/) by AI2: provides bulk download options as well as an extensive API.
-+ [DBLP](https://dblp.org/)
++ [DBLP](https://dblp.org/) (try querying using [QLever](https://qlever.cs.uni-freiburg.de/dblp))
 + [CSRankings](https://csrankings.org/)
 
 ## Project Ideas
