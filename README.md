@@ -41,7 +41,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [1](#week-1) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
 | [2](#week-2) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
 | [3](#week-3) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
-| [4](#week-4) | 10/3 | "science" | The Science of Impact |
+| [4](#week-4) | 10/3 | "science" | The Science of Impact [[Slides](slides/week4.pdf)] |
 | [5](#week-5) | 10/17 | - | Presentation of visualization projects |
 | [6](#week-6) | 10/24 | "art" | How the sausage is made: the conference lifecycle |
 | [7](#week-7) | 10/31 | "art" | Working with your advisor and what to work on |
@@ -103,6 +103,8 @@ We'll be having our debate on Topic 2: Should you collaborate or not?
 ### Week 4
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact (pages 159-219).
+
+**Slides:** [[PDF](slides/week4.pdf)]
 
 We'll be having our debate on Topic 3: How should you approach open-sourcing computational artifacts associated with your work?
 
