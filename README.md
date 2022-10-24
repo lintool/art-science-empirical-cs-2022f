@@ -43,7 +43,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [3](#week-3) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
 | [4](#week-4) | 10/3 | "science" | The Science of Impact [[Slides](slides/week4.pdf)] |
 | [5](#week-5) | 10/17 | - | Presentation of visualization projects |
-| [6](#week-6) | 10/24 | "art" | How the sausage is made: the conference lifecycle |
+| [6](#week-6) | 10/24 | "art" | How the sausage is made: the conference lifecycle | [Slides](slides/week6.pdf)] |
 | [7](#week-7) | 10/31 | "art" | Working with your advisor and what to work on |
 | [8](#week-8) | 11/7 | "art" | On writing papers |
 | [9](#week-9) | 11/14 | "art" | Participating in the research community |
@@ -113,7 +113,16 @@ We'll be having our debate on Topic 3: How should you approach open-sourcing com
 
 ### Week 5
 
+Presentation of visualization projects!
+
 ### Week 6
+
+**Slides:** [[PDF](slides/week6.pdf)]
+
+We'll be having our debate on Topic 4: Is social media a waste of time?
+  + Position A: Early-stage researchers should actively incorporate social media use as a component of their career development. This means appropriate use of sites like Twitter, Facebook, and LinkedIn to build professional reputation, engage with the community, hear about recent work by others, etc.
+  + Position B: Early-stage researchers should stay off social media. It's a complete waste of time.
+
 
 ### Week 7
 
