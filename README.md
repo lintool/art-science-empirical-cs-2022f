@@ -42,12 +42,12 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [2](#week-2) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
 | [3](#week-3) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
 | [4](#week-4) | 10/3 | "science" | The Science of Impact [[Slides](slides/week4.pdf)] |
-| [5](#week-5) | 10/17 | - | Presentation of visualization projects |
-| [6](#week-6) | 10/24 | "art" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
-| [7](#week-7) | 10/31 | "art" | Working with your advisor and what to work on |
-| [8](#week-8) | 11/7 | "art" | On writing papers |
-| [9](#week-9) | 11/14 | "art" | Participating in the research community |
-| [10](#week-10) | 11/21 | "both" | Responsible AI |
+| [5](#week-5) | 10/17 | - | Presentation of Visualization Projects |
+| [6](#week-6) | 10/24 | "science" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
+| [7](#week-7) | 10/31 | "art" | Research as a Social Process [[Slides](slides/week7.pdf)] |
+| [8](#week-8) | 11/7 | "art" | Working With Your Advisor |
+| [9](#week-9) | 11/14 | "art" | On Writing Papers |
+| [10](#week-10) | 11/21 | "both" | Responsible Research |
 | [11](#week-11) | 11/28 | "science" | Technological solutions? (I) |
 | [12](#week-12) | 12/5 | "science" | Technological solutions? (II) |
 
@@ -72,13 +72,13 @@ In addition to weekly preparation (readings and other material), the course will
 
 ## Detailed Schedule
 
-### Week 1
+### Week 1: Introduction
 
 **Slides:** [[PDF](slides/week1.pdf)]
 
 For more details on normative vs. positive approaches, Wikipedia provides a good starting point: [Positivism](https://en.wikipedia.org/wiki/Positivism) and [Normativity](https://en.wikipedia.org/wiki/Normativity).
 
-### Week 2
+### Week 2: The Science of Career
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Career (pages 5-80).
 
@@ -89,7 +89,7 @@ We'll be having our debate on Topic 1: How should we evaluate excellence? Qualit
 + Position A: Researchers should be evaluated _solely_ on the quality of their publications. Quantity is irrelevant and we shouldn't even bother counting.
 + Position B: Researchers should be evaluated on _both_ the quality _and_ quantity of their publications. High-quality publications are of course important, but quantity is also an important component of excellence.
 
-### Week 3
+### Week 3: The Science of Collaboration
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 2: The Science of Collaboration (pages 81-158).
 
@@ -100,7 +100,7 @@ We'll be having our debate on Topic 2: Should you collaborate or not?
 + Position A: Early-stage researchers should actively seek out collaborations beyond their research group. Participation in multiple research projects across many different groups builds breadth.
 + Position B: Early-stage researchers should _not_ actively seek out collaborations beyond their research group. Focusing on depth is more important than breadth.
 
-### Week 4
+### Week 4: The Science of Impact
 
 **Readings** (to be completed prior to the class session): ["The Science of Science"](https://www.dashunwang.com/book/the-science-of-science) by Wang and Barabási, Part 1: The Science of Impact (pages 159-219).
 
@@ -111,11 +111,11 @@ We'll be having our debate on Topic 3: How should you approach open-sourcing com
 + Position A: Early-stage researchers should do the minimal in open-sourcing computational artifacts that arise from their work. Doing anything more than the community norm is a waste of time and effort that could be better spent writing more papers.
 + Position B: Early-stage researchers should actively promote the adoption of computational artifacts that arise from their work, for example, contributing to popular open-source libraries. Even if this requires a lot of time (e.g., refactoring code into a production-ready state), such efforts are worthwhile.
 
-### Week 5
+### Week 5: Presentation of Visualization Projects
 
 Presentation of visualization projects!
 
-### Week 6
+### Week 6: The Science of Impact (Still)
 
 **Slides:** [[PDF](slides/week6.pdf)]
 
@@ -123,16 +123,30 @@ We'll be having our debate on Topic 4: Is social media a waste of time?
   + Position A: Early-stage researchers should actively incorporate social media use as a component of their career development. This means appropriate use of sites like Twitter, Facebook, and LinkedIn to build professional reputation, engage with the community, hear about recent work by others, etc.
   + Position B: Early-stage researchers should stay off social media. It's a complete waste of time.
 
+Links to the case studies of impact that we discussed in class:
 
-### Week 7
++ [LUCENE-2959: Implementing State of the Art Ranking for Lucene](https://issues.apache.org/jira/browse/LUCENE-2959)
++ [LUCENE-4100: Maxscore - Efficient Scoring](https://issues.apache.org/jira/browse/LUCENE-4100)
++ [LUCENE-8135: Implement Block-Max WAND](https://issues.apache.org/jira/browse/LUCENE-8135)
++ [Lucene v8.0.0 Release Notes](https://lucene.apache.org/core/8_0_0/changes/Changes.html#v8.0.0.improvements)
 
-### Week 8
+### Week 7: Research as a Social Process
 
-### Week 9
+**Slides:** [[PDF](slides/week7.pdf)]
 
-### Week 10
+Links to content discussed in class:
 
-### Week 11
++ [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
++ [Report by the ACL 2022 PC Chairs](https://docs.google.com/document/d/1NMuyNOMQD4Xt-tqh4CgiTYEkyhFAQBGFwcyfUCi2obc/edit)
 
-### Week 12
+### Week 8: Working With Your Advisor
+
+### Week 9: On Writing Papers
+
+### Week 10: Responsible Research
+
+### Week 11: Technological solutions? (I)
+
+### Week 12: Technological solutions? (II)
+
 
