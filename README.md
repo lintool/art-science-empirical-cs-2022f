@@ -45,18 +45,18 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [5](#week-5) | 10/17 | - | Presentation of Visualization Projects |
 | [6](#week-6) | 10/24 | "science" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
 | [7](#week-7) | 10/31 | "art" | Research as a Social Process [[Slides](slides/week7.pdf)] |
-| [8](#week-8) | 11/7 | "art" | Working With Your Advisor |
+| [8](#week-8) | 11/7 | "art" | Working With Your Advisor [[Slides](slides/week8.pdf)] |
 | [9](#week-9) | 11/14 | "art" | On Writing Papers |
-| [10](#week-10) | 11/21 | "both" | Responsible Research |
-| [11](#week-11) | 11/28 | "science" | Technological solutions? (I) |
-| [12](#week-12) | 12/5 | "science" | Technological solutions? (II) |
+| [10](#week-10) | 11/21 | "art" | Responsible Research |
+| [11](#week-11) | 11/28 | "science" | Paper Presentations (I) |
+| [12](#week-12) | 12/5 | "science" | Paper Presentations (II) |
 
 ## Grades
 
 | Weight | Component |
 |:-------|:----------|
 | 15% | [Debate participation](debates.md) |
-| 15% | [Technology presentation](tech-presentation.md) |
+| 15% | [Technology presentation](paper-presentation.md) |
 | 20% | [Visualization project](project-vis.md) |
 | 40% | [Final project](project-final.md) |
 | 10% | Class participation |
@@ -139,7 +139,20 @@ Links to content discussed in class:
 + [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 + [Report by the ACL 2022 PC Chairs](https://docs.google.com/document/d/1NMuyNOMQD4Xt-tqh4CgiTYEkyhFAQBGFwcyfUCi2obc/edit)
 
+Supplemental readings:
+
++ Becerra et al. [Maximizing the Conference Experience: Tips to Effectively Navigate Academic Conferences Early in Professional Careers.](https://link.springer.com/article/10.1007/s40617-019-00406-w), _Behavior Analysis in Practice_, 13(3):479-491, 2020.
++ Leininger et al. [Ten Simple Rules for Attending Your First Conference.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009133) _PLoS Computational Biology_, 17(7):e1009133, 2021.
+
 ### Week 8: Working With Your Advisor
+
+**Slides:** [[PDF](slides/week8.pdf)]
+
+Links to content discussed in class:
+
++ [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/)
++ [Marriage v. The Ph.D.](https://phdcomics.com/comics/archive.php?comicid=1296)
++ [Average time spent writing one e-mail](https://phdcomics.com/comics/archive.php?comicid=1047)
 
 ### Week 9: On Writing Papers
 
