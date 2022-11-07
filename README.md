@@ -56,7 +56,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | Weight | Component |
 |:-------|:----------|
 | 15% | [Debate participation](debates.md) |
-| 15% | [Technology presentation](paper-presentation.md) |
+| 15% | [Paper presentation](paper-presentation.md) |
 | 20% | [Visualization project](project-vis.md) |
 | 40% | [Final project](project-final.md) |
 | 10% | Class participation |
@@ -66,7 +66,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 In addition to weekly preparation (readings and other material), the course will have the following assignments:
 
 + [Preparation and participation in a debate.](debates.md) These debates will be scattered throughout the semester, where the debate topics will be complementary to the topic of that week.
-+ [Literature review and presentation of a technological solution](tech-presentation.md) to a challenge related to the topics covered in this course (Weeks 11 and 12).
++ [Presentation of a paper on meta-research](paper-presentation.md) (Weeks 11 and 12).
 + [Visualization project](project-vis.md) due in mid-October.
 + [Final project](project-final.md) due at the end of the semester.
 
@@ -158,8 +158,8 @@ Links to content discussed in class:
 
 ### Week 10: Responsible Research
 
-### Week 11: Technological solutions? (I)
+### Week 11: Paper Presentation (I)
 
-### Week 12: Technological solutions? (II)
+### Week 12: Paper Presentation (II)
 
 
