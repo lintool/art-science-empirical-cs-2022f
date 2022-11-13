@@ -46,7 +46,7 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 | [6](#week-6) | 10/24 | "science" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
 | [7](#week-7) | 10/31 | "art" | Research as a Social Process [[Slides](slides/week7.pdf)] |
 | [8](#week-8) | 11/7 | "art" | Working With Your Advisor [[Slides](slides/week8.pdf)] |
-| [9](#week-9) | 11/14 | "art" | On Writing Papers |
+| [9](#week-9) | 11/14 | "art" | On Writing Papers [[Slides](slides/week9.pdf)] |
 | [10](#week-10) | 11/21 | "art" | Responsible Research |
 | [11](#week-11) | 11/28 | "science" | Paper Presentations (I) |
 | [12](#week-12) | 12/5 | "science" | Paper Presentations (II) |
@@ -155,6 +155,22 @@ Links to content discussed in class:
 + [Average time spent writing one e-mail](https://phdcomics.com/comics/archive.php?comicid=1047)
 
 ### Week 9: On Writing Papers
+
+**Slides:** [[PDF](slides/week9.pdf)]
+
+Papers used in the abstract analysis exercise:
+
++ Deng et al. [ImageNet: A Large-Scale Hierarchical Image Database.](https://ieeexplore.ieee.org/document/5206848) _CVPR 2009_. (45k citations)
++ Krizhevsky et al. [ImageNet Classification with Deep Convolutional Neural Networks.](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) _NIPS 2012_. (119k citations)
++ Devlin et al. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://aclanthology.org/N19-1423/) _NAACL 2019_. (53k citations)
++ Radford et al. [Improving Language Understanding by Generative Pre-Training.](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) (4k citations)
++ Peters et al. [Deep Contextualized Word Representations.](https://aclanthology.org/N18-1202/) _NAACL 2018_. (11k citations)
+
+Links to content discussed in class:
+
++ [Writing Is Thinking](https://www.insidehighered.com/blogs/higher-ed-gamma/writing-thinking)
++ Mensh and Kording. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) _PLoS Computational Biology_, 13(9):e1005619, 2017.
++ Baquero. [Picking Publication Targets.](https://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets/fulltext) _CACM_, 65(3):10-11, 2022.
 
 ### Week 10: Responsible Research
 
