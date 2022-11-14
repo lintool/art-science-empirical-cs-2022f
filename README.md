@@ -38,18 +38,18 @@ All findings, advice, recommendations, etc. need to be properly contextualized.
 
 | Week | Date | Type | Description |
 |:-----|:-----|:-----|:------------|
-| [1](#week-1) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
-| [2](#week-2) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
-| [3](#week-3) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
-| [4](#week-4) | 10/3 | "science" | The Science of Impact [[Slides](slides/week4.pdf)] |
-| [5](#week-5) | 10/17 | - | Presentation of Visualization Projects |
-| [6](#week-6) | 10/24 | "science" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
-| [7](#week-7) | 10/31 | "art" | Research as a Social Process [[Slides](slides/week7.pdf)] |
-| [8](#week-8) | 11/7 | "art" | Working With Your Advisor [[Slides](slides/week8.pdf)] |
-| [9](#week-9) | 11/14 | "art" | On Writing Papers [[Slides](slides/week9.pdf)] |
-| [10](#week-10) | 11/21 | "art" | Responsible Research |
-| [11](#week-11) | 11/28 | "science" | Paper Presentations (I) |
-| [12](#week-12) | 12/5 | "science" | Paper Presentations (II) |
+| [1](#week-1-introduction) | 9/12 | - | Introduction [[Slides](slides/week1.pdf)] |
+| [2](#week-2-the-science-of-career) | 9/19 | "science" | The Science of Career [[Slides](slides/week2.pdf)] |
+| [3](#week-3-the-science-of-collaboration) | 9/26 | "science" | The Science of Collaboration [[Slides](slides/week3.pdf)] |
+| [4](#week-4-the-science-of-impact) | 10/3 | "science" | The Science of Impact [[Slides](slides/week4.pdf)] |
+| [5](#week-5-presentation-of-visualization-projects) | 10/17 | - | Presentation of Visualization Projects |
+| [6](#week-6-the-science-of-impact-still) | 10/24 | "science" | The Science of Impact (Still) [[Slides](slides/week6.pdf)] |
+| [7](#week-7-research-as-a-social-process) | 10/31 | "art" | Research as a Social Process [[Slides](slides/week7.pdf)] |
+| [8](#week-8-working-with-your-advisor) | 11/7 | "art" | Working With Your Advisor [[Slides](slides/week8.pdf)] |
+| [9](#week-9-on-writing-papers) | 11/14 | "art" | On Writing Papers [[Slides](slides/week9.pdf)] |
+| [10](#week-10-responsible-research) | 11/21 | "art" | Responsible Research |
+| [11](#week-11-paper-presentation-i) | 11/28 | "science" | Paper Presentations (I) |
+| [12](#week-12-paper-presentation-ii) | 12/5 | "science" | Paper Presentations (II) |
 
 ## Grades
 
@@ -171,6 +171,7 @@ Links to content discussed in class:
 + [Writing Is Thinking](https://www.insidehighered.com/blogs/higher-ed-gamma/writing-thinking)
 + Mensh and Kording. [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) _PLoS Computational Biology_, 13(9):e1005619, 2017.
 + Baquero. [Picking Publication Targets.](https://cacm.acm.org/magazines/2022/3/258896-picking-publication-targets/fulltext) _CACM_, 65(3):10-11, 2022.
++ My [writing pet peeves](https://github.com/lintool/guide/blob/master/writing-pet-peeves.md)
 
 ### Week 10: Responsible Research
 
