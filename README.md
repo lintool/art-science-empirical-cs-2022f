@@ -186,6 +186,28 @@ Links to content discussed in class:
 
 ### Week 11: Paper Presentation (I)
 
++ [The impact of the COVID-19 pandemic on scientific research in the life sciences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263001)
++ [Massive covidization of research citations and the citation elite](https://www.pnas.org/doi/10.1073/pnas.2204074119)
++ [The evolution of citation graphs in artificial intelligence research](https://www.nature.com/articles/s42256-019-0024-5)
++ [What Do NLP Researchers Believe? Results of the NLP Community Metasurvey](https://arxiv.org/abs/2208.12852)
++ [Examining Citations of Natural Language Processing Literature](https://aclanthology.org/2020.acl-main.464/)
++ [NLP Scholar: A Dataset for Examining the State of NLP Research](https://aclanthology.org/2020.lrec-1.109/)
++ [Geographic Citation Gaps in NLP Research](https://arxiv.org/abs/2210.14424)
++ [Quotation accuracy in educational research articles](https://www.sciencedirect.com/science/article/pii/S1747938X21000531)
++ [Hydrology research articles are becoming more topically diverse](https://www.sciencedirect.com/science/article/pii/S0022169422011210)
++ [Systematic inequality and hierarchy in faculty hiring networks](https://www.science.org/doi/10.1126/sciadv.1400005)
++ [Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks](https://dl.acm.org/doi/abs/10.1145/2872427.2883073)
++ [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3)
+
 ### Week 12: Paper Presentation (II)
 
-
++ [Reviewer bias in single- versus double-blind peer review](https://www.pnas.org/doi/10.1073/pnas.1707323114)
++ [The Global Burden of Journal Peer Review in the Biomedical Literature: Strong Imbalance in the Collective Enterprise](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166387)
++ [Are You Open? A Content Analysis of Transparency and Openness Guidelines in HCI Journals](https://dl.acm.org/doi/pdf/10.1145/3411764.3445584)
++ [To ArXiv or not to ArXiv: A Study Quantifying Pros and Cons of Posting Preprints Online](https://openreview.net/forum?id=ywiegsPRSF)
++ [Meta-assessment of bias in science](https://www.pnas.org/doi/full/10.1073/pnas.1618569114)
++ [There is a blind spot in AI research](https://www.nature.com/articles/538311a)
++ [Gender Diversity in Research Teams and Citation Impact in Economics and Management](https://onlinelibrary.wiley.com/doi/full/10.1111/joes.12420)
++ [Men Set Their Own Cites High: Gender and Self-citation across Fields and over Time](https://journals.sagepub.com/doi/full/10.1177/2378023117738903)
++ [How much is too much? The difference between research influence and self-citation excess](https://link.springer.com/article/10.1007/s11192-020-03417-5)
++ [Relative Citation Ratio (RCR): A New Metric That Uses Citation Rates to Measure Influence at the Article Level](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002541)
