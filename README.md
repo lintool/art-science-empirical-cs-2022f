@@ -1,5 +1,9 @@
 # The Art and Science of Empirical Computer Science
 
+⁉️ This is the course website for the **Fall 2022** edition of my course, which has concluded.
+Do you really mean to be here?
+Or do you really want to visit the [**Fall 2023**](https://github.com/lintool/art-science-empirical-cs-2023f) edition?
+
 ## Logistics
 
 + **Semester**: Fall 2022
